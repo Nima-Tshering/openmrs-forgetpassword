@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "976277118657",
+    "firebase_url": "https://openmrsforget.firebaseio.com",
+    "project_id": "openmrsforget",
+    "storage_bucket": "openmrsforget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976277118657:android:b5394d619f839921",
+        "android_client_info": {
+          "package_name": "sikkimgenuine.com.openmrsforget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976277118657-3ai22aotj39nr6k4s0pa3ilsae3dv52b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sikkimgenuine.com.openmrsforget",
+            "certificate_hash": "181777f33ffd4ca6ad054979a3040cc6efbd2778"
+          }
+        },
+        {
+          "client_id": "976277118657-a9t0kasam72pln3ttc2kq1fu4iavufhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUaSkxM5VVIkrtG_Cuw1i3gIonU6uuec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976277118657-a9t0kasam72pln3ttc2kq1fu4iavufhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
